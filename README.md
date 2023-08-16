@@ -1,4 +1,4 @@
-# Website Blocker Application
+## Website Blocker Application
 
 This is a simple GUI application created using Python's Tkinter library for blocking websites by modifying the hosts file on a Windows system. The application allows you to enter a list of websites to block, and it will add the appropriate entries to the hosts file.
 
