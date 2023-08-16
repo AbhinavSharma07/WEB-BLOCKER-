@@ -21,6 +21,6 @@ This is a simple GUI application created using Python's Tkinter library for bloc
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request....
 
 
